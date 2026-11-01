@@ -295,7 +295,7 @@ export default function TodoApp() {
             </div>
             <div>
               <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900 dark:text-white">
-                TaskFlow
+                Taskify - Task Management
               </h1>
               <p className="text-sm text-slate-500 dark:text-slate-400">
                 Organize, prioritize, and accomplish your tasks effortlessly

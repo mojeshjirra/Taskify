@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TaskFlow - Todo Application",
+  title: "Taskify - Task Management",
   description: "Create, edit, update, and manage your tasks effortlessly",
 };
 
